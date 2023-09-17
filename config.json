@@ -1,0 +1,40 @@
+{
+
+  "video_id": "1",
+  "user_id": "1",
+  "message_id": "1",
+  "time_created": "",
+  "time_sent": "",
+  "video_type": "static",
+  "text": "Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma which is living with the results of other people's thinking.",
+
+  "video_settings": {
+    "min_duration": 8,
+    "after_phrase_duration": 2,
+    "clips_synchronization": true,
+    "logo_position": 250
+  },
+
+  "clips_settings": {
+    "clips_path": "wifimoney",
+    "min_duration": 0.8,
+    "max_duration": 1.8
+  },
+
+  "subtitles_settings": {
+    "font_path": "monserrat.ttf",
+    "font_size": 42,
+    "font_color": [255, 255, 255],
+    "type": "default",
+    "maxTextWidth": 0.7,
+    "stroke_width": 1,
+    "visibility": true
+  },
+
+  "audio_settings": {
+    "voice_volume": 1,
+    "background_audio_volume": 0.5,
+    "only_audio": false
+  }
+
+}
