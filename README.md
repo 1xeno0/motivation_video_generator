@@ -1,4 +1,4 @@
-# motivation_video_generator
+# Motivational Video Generator Tool
 Video Generator to create motivational/wifimoney nich videos for youtube/instagram/tiktok
 
 3 video types:
